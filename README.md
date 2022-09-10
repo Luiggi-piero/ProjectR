@@ -1,4 +1,4 @@
-# ProjectR
+# Project R
 https://web-project-r.netlify.app/
 
 <h1 align="center">Hola soy Luiggi</h1>
