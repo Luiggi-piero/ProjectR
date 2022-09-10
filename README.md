@@ -18,11 +18,24 @@
 
 ### Vistas del cliente
 ![principal](https://user-images.githubusercontent.com/86317658/189504425-e6f5407f-b4fe-4d18-9856-3d7d7bc47ec4.png)
+
 ![registro](https://user-images.githubusercontent.com/86317658/189504412-4982420b-f90f-47c7-a419-fa53a634ac81.png)
+
 ![login](https://user-images.githubusercontent.com/86317658/189504409-e79a98ea-969d-488c-b6e6-dde59117e37d.png)
+
 ![todos](https://user-images.githubusercontent.com/86317658/189504413-bacf684f-e80e-4971-ac40-f4b409352a2f.png)
+
 ![carro](https://user-images.githubusercontent.com/86317658/189504406-51c99b64-7c89-4572-b9f1-be3cb9c10e79.png)
+
 ![miscompras](https://user-images.githubusercontent.com/86317658/189504410-50892807-57ff-4a29-98cc-98d160bf7d65.png)
 
 ### Vistas del administrador
+![categorias](https://user-images.githubusercontent.com/86317658/189504458-28efdfcc-c67d-4f9d-b96b-7f35fb6d12ad.png)
 
+![misproductos](https://user-images.githubusercontent.com/86317658/189504461-3b168489-7e38-497f-9970-cbe705691a2b.png)
+
+![estrategias](https://user-images.githubusercontent.com/86317658/189504460-cfa5fb9e-699a-44ef-ae35-d4de06166e5c.png)
+
+![compras](https://user-images.githubusercontent.com/86317658/189504459-a0fe980e-5c16-48b8-9847-3c23603dd8f5.png)
+
+![pagos](https://user-images.githubusercontent.com/86317658/189504462-87ca0513-c80c-4b38-98c6-5438832d6d2f.png)
