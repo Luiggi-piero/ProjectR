@@ -1,7 +1,6 @@
 # Project R
 :globe_with_meridians: https://project-r-web.netlify.app/
 
-<h1 align="center">Hola soy Luiggi</h1>
 <h3 align="center">Project R es un sistema de venta en línea responsive que usa tecnologías como el framework Angular, firebase, entre otros.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Angular y JavaScript**
