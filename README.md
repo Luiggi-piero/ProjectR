@@ -6,6 +6,9 @@
 - 🌱 Actualmente estoy aprendiendo **Angular y JavaScript**
 
 - 📫 Correo **luiggiyantas@gmail.com**
+- 📫 Correo **luiggi.yantas@unmsm.edu.pe**
+- :octocat: [Mi segundo repositorio](https://github.com/LuiggiCF/SistemaEstacionamiento "LuiggiCF")
+- :globe_with_meridians: <https://www.facebook.com/yantas.luiggi>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
