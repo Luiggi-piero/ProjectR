@@ -3,7 +3,6 @@
 
 <h3 align="center">Project R es un sistema de venta en línea responsive que usa tecnologías como el framework Angular, firebase, entre otros.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Angular y JavaScript**
 
 - 📫 Correo **luiggiyantas@gmail.com**
 - 📫 Correo **luiggi.yantas@unmsm.edu.pe**
