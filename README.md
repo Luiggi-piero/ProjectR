@@ -5,7 +5,6 @@
 
 
 - 📫 Correo **luiggiyantas@gmail.com**
-- 📫 Correo **luiggi.yantas@unmsm.edu.pe**
 - :octocat: [Mi segundo repositorio](https://github.com/LuiggiCF/SistemaEstacionamiento "LuiggiCF")
 - :globe_with_meridians: <https://www.facebook.com/yantas.luiggi>
 
